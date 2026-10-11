@@ -1,1 +1,1 @@
-game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 200
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BaconCheats/Leaked/main/DexPlusPlus.lua'))()
